@@ -66,8 +66,8 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://solved.ac/yeonho00">
-        <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=jjklunicc">
+      <a href="https://solved.ac/rudolphdpche">
+        <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=rudolphdpche">
       </a>
     </td>
   </tr>
