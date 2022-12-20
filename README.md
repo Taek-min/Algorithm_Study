@@ -16,7 +16,7 @@
   
 
 ## ✏ 푼 문제들
-[<sub>![Bronze3]</sub> 직사각형에서 탈출](https://www.acmicpc.net/problem/1085) |
+[<sub>![Bronze2]</sub> TV 크기](https://www.acmicpc.net/problem/1297) |
 
 ## 👨‍💻 스터디원
 <table>
