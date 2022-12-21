@@ -32,3 +32,4 @@ namespace BaekjoonProject
         }
     }
 }
+// 간단하게 잘 푼듯

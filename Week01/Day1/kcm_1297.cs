@@ -10,7 +10,7 @@ namespace week01_01
             double[] TV = new double[str.Length];
             double OneRatio;
 
-            for (int i = 0; i < str.Length; i++)
+            for (int i = 0; i < str.Length; i++) //반복문을 빼는게 시간복잡도 측면에서 더 낫지 않을까요?
             {
                 TV[i] = double.Parse(str[i]);
             }
