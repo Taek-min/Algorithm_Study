@@ -20,7 +20,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Unrated]</sub> 커트라인 ](https://www.acmicpc.net/problem/25305) | [창민](Day2/kcm_25305.cs) 택민 현민 [연호](Day2/kcm_25305.cs) 준수 | 창민 택민 현민 연호 준수             |
+| [<sub>![Unrated]</sub> 커트라인 ](https://www.acmicpc.net/problem/25305) | [창민](Day2/kcm_25305.cs) 택민 현민 [연호](Day2/syh_25305.cs) 준수 | 창민 택민 현민 연호 준수             |
 
 ## [3일차](Day3)
 
