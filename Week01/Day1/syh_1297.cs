@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BaekjoonProject
 {
-    class syh1297
+    class syh_1297
     {
         public static void Main()
         {
