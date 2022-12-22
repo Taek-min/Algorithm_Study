@@ -14,7 +14,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze2]</sub> TV 크기](https://www.acmicpc.net/problem/1297) | [창민](Day1/kcm_1297.cs) [택민](Day1/jtm_1297.cpp) [현민](Day1/shm_1297.cs) [연호](Day1/syh_1297.cs) 준수 | [창민](Day1/kcm_fb_1297.cs) 택민 [현민](Day1/shm_1297.cs) 연호 준수             |
+| [<sub>![Bronze2]</sub> TV 크기](https://www.acmicpc.net/problem/1297) | [창민](Day1/kcm_1297.cs) [택민](Day1/jtm_1297.cpp) [현민](Day1/shm_1297.cs) [연호](Day1/syh_1297.cs) 준수 | [창민](Day1/kcm_fb_1297.cs) [택민](Day1/jtm_1297.cpp) [현민](Day1/shm_1297.cs) 연호 준수             |
 
 ## [2일차](Day2)
 
@@ -26,7 +26,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze1]</sub> 적어도 대부분의 배수](https://www.acmicpc.net/problem/1145) | [창민](Day3/kcm_1145.cs) 택민 [현민](Day3/shm_1145.cs) [연호](Day3/syh_1145.cs) 준수 | 창민 택민 현민 연호 준수             |
+| [<sub>![Bronze1]</sub> 적어도 대부분의 배수](https://www.acmicpc.net/problem/1145) | [창민](Day3/kcm_1145.cs) [택민](Day3/jtm_1145.cpp) [현민](Day3/shm_1145.cs) [연호](Day3/syh_1145.cs) 준수 | 창민 택민 현민 연호 준수             |
 
 ## [일차](Day)
 
