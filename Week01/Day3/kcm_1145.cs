@@ -35,5 +35,5 @@ namespace kcm_1145
             }
             Console.Write(min);
         }
-    }// 깔끔해요 
+    }// 깔끔해요 , 굳
 }
