@@ -19,6 +19,7 @@
 [<sub>![Bronze2]</sub> TV 크기](https://www.acmicpc.net/problem/1297) |
 [<sub>![Bronze2]</sub> 커트라인](https://www.acmicpc.net/problem/25305) |
 [<sub>![Bronze1]</sub> 적어도 대부분의 배수](https://www.acmicpc.net/problem/1145) |
+[<sub>![Bronze1]</sub> 팀 이름 정하기](https://www.acmicpc.net/problem/1296) |
 
 ## 👨‍💻 스터디원
 <table>
