@@ -38,7 +38,7 @@ namespace BaekjoonProject
                     continue;
                 else
                     return inputStr;
-            }//이게.. 뭐노? 배워간다 연호, C# 어려워!!
+            }//이게.. 뭐노? 배워간다 연호, C# 어려워!! :2
         }
     }
 }

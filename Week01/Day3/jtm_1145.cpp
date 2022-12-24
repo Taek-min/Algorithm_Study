@@ -25,3 +25,4 @@ int main()
     return 0;
     // NICE
 }
+// 다 비슷하게 풀었네
