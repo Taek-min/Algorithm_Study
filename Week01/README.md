@@ -32,7 +32,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze1]</sub> 팀 이름 정하기](https://www.acmicpc.net/problem/1296) | 창민 [택민](Day4/jtm_1296.java) [현민](Day4/shm_1296.cs) 연호 준수 | 창민 택민 현민 연호 준수             |
+| [<sub>![Bronze1]</sub> 팀 이름 정하기](https://www.acmicpc.net/problem/1296) | 창민 [택민](Day4/jtm_1296.java) [현민](Day4/shm_1296.cs) [연호](Day4/syh_1296.cs) 준수 | 창민 택민 현민 연호 준수             |
 
 ## [일차](Day)
 
