@@ -48,6 +48,35 @@ namespace BaekjoonProject.Class
 
             Console.WriteLine($"{teamName[curIdx]}");
         }
+        static int[] CntLOVEMethod(string str)
+        {
+            int[] cntLOVE = new int[4];
+            foreach (char c in str)
+            {
+                switch (c)
+                {
+                    case 'L': cntLOVE[L]++; break;
+                    case 'O': cntLOVE[O]++; break;
+                    case 'V': cntLOVE[V]++; break;
+                    case 'E': cntLOVE[E]++; break;
+                    default: break;
+                }
+            }
+            return cntLOVE;
+        }
+        static int CalcMethod(int[] cntLOVE, int[] cntLOVEBuf)
+        {
+            for (int i = 0; i < 4; i++)
+            {
+                cntLOVEBuf[i] += cntLOVE[i];
+            }
+            return ((cntLOVEBuf[L] + cntLOVEBuf[O]) *
+                    (cntLOVEBuf[L] + cntLOVEBuf[V]) *
+                    (cntLOVEBuf[L] + cntLOVEBuf[E]) *
+                    (cntLOVEBuf[O] + cntLOVEBuf[V]) *
+                    (cntLOVEBuf[O] + cntLOVEBuf[E]) *
+                    (cntLOVEBuf[V] + cntLOVEBuf[E])) % 100;
+        }
         static void InputMethod(out int loopNum, out string name, out string[] teamName)
         {
             while (true)
@@ -72,44 +101,6 @@ namespace BaekjoonProject.Class
                         break;
                 }
             }
-        }
-        static int[] CntLOVEMethod(string str)
-        {
-            int[] cntLOVE = new int[4];
-            foreach (char c in str)
-            {
-                switch (c)
-                {
-                    case 'L':
-                        cntLOVE[L]++;
-                        break;
-                    case 'O':
-                        cntLOVE[O]++;
-                        break;
-                    case 'V':
-                        cntLOVE[V]++;
-                        break;
-                    case 'E':
-                        cntLOVE[E]++;
-                        break;
-                    default:
-                        break;
-                }
-            }
-            return cntLOVE;
-        }
-        static int CalcMethod(int[] cntLOVE, int[] cntLOVEBuf)
-        {
-            for (int i = 0; i < 4; i++)
-            {
-                cntLOVEBuf[i] += cntLOVE[i];
-            }
-            return ((cntLOVEBuf[L] + cntLOVEBuf[O]) *
-                    (cntLOVEBuf[L] + cntLOVEBuf[V]) *
-                    (cntLOVEBuf[L] + cntLOVEBuf[E]) *
-                    (cntLOVEBuf[O] + cntLOVEBuf[V]) *
-                    (cntLOVEBuf[O] + cntLOVEBuf[E]) *
-                    (cntLOVEBuf[V] + cntLOVEBuf[E])) % 100;
         }
     }
 }
