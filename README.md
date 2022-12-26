@@ -20,6 +20,7 @@
 [<sub>![Bronze2]</sub> 커트라인](https://www.acmicpc.net/problem/25305) |
 [<sub>![Bronze1]</sub> 적어도 대부분의 배수](https://www.acmicpc.net/problem/1145) |
 [<sub>![Bronze1]</sub> 팀 이름 정하기](https://www.acmicpc.net/problem/1296) |
+[<sub>![Bronze1]</sub> 팰린드롬수](https://www.acmicpc.net/problem/1259) |
 
 ## 👨‍💻 스터디원
 <table>
@@ -51,6 +52,13 @@
         성연호
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/shinjunsu">
+        <img src="https://avatars.githubusercontent.com/u/79956027?v=4" width="100px;" alt=""/>
+        <br/>
+        신준수
+      </a>
+    </td>
   </tr>
 
    <tr>
@@ -70,6 +78,11 @@
     </td>
     <td align="center">
       <a href="https://solved.ac/rudolphdpche">
+        <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=rudolphdpche">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://solved.ac/sjs990306">
         <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=rudolphdpche">
       </a>
     </td>
