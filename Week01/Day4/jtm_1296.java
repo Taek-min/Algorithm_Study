@@ -63,5 +63,5 @@ public class Main{
 			}
 		}
 		return ((L+O)*(L+V)*(L+E)*(O+V)*(O+E)*(V+E)) % 100;
-	}
+	}// 버퍼와 함수 구현 너무 훌륭하네요 
 }

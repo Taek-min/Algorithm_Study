@@ -38,5 +38,5 @@ namespace kcm_1296
 
             Console.WriteLine(choicename);
         }
-    }
+    }// 깔끔하게 잘풀었네요
 }
