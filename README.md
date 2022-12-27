@@ -21,6 +21,7 @@
 [<sub>![Bronze1]</sub> 적어도 대부분의 배수](https://www.acmicpc.net/problem/1145) |
 [<sub>![Bronze1]</sub> 팀 이름 정하기](https://www.acmicpc.net/problem/1296) |
 [<sub>![Bronze1]</sub> 팰린드롬수](https://www.acmicpc.net/problem/1259) |
+[<sub>![Unrated]</sub> 주사위](https://www.acmicpc.net/problem/1233) |
 
 ## 👨‍💻 스터디원
 <table>
