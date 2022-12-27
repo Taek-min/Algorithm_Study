@@ -20,7 +20,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Unrated]</sub> 주사위](https://www.acmicpc.net/problem/1233) | [창민](Day6/kcm_1233.cs) 택민 현민 연호 준수 | 창민 택민 현민 연호 준수             |
+| [<sub>![Unrated]</sub> 주사위](https://www.acmicpc.net/problem/1233) | [창민](Day6/kcm_1233.cs) 택민 현민 [연호](Day6/syh_1233.cs) 준수 | 창민 택민 현민 연호 준수             |
 
 ## [일차](Day)
 
