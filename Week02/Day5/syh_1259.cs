@@ -32,3 +32,4 @@ namespace BaekjoonProject.Class
         }
     }
 }
+//다 비슷한 방식으로 풀엇네 

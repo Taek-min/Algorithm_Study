@@ -103,4 +103,4 @@ namespace BaekjoonProject.Class
             }
         }
     }
-} //함수 구현 잘봤습니다.
+} //함수 구현 잘봤습니다. :2

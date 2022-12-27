@@ -15,3 +15,4 @@ while(True):
     if yorn : print('no')
     else : print('yes')       
 
+## 굳
