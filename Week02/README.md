@@ -26,7 +26,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver5]</sub> 단어정렬](https://www.acmicpc.net/problem/1181) | [창민](Day7/kcm_1181.cs) [택민](Day7/jtm_1811.cpp) 현민 [연호](Day7/syh_1811.cs) [준수](Day7/sjs_1181.py) | 창민 택민 현민 연호 준수             |
+| [<sub>![Silver5]</sub> 단어정렬](https://www.acmicpc.net/problem/1181) | [창민](Day7/kcm_1181.cs) [택민](Day7/jtm_1811.cpp) 현민 [연호](Day7/syh_1181.cs) [준수](Day7/sjs_1181.py) | 창민 택민 현민 연호 준수             |
 
 ## [8일차](Day8)
 
