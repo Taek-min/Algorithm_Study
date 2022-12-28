@@ -14,7 +14,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze1]</sub> 팰린드롬수](https://www.acmicpc.net/problem/1259) | [창민](Day5/kcm_1259.cs) 택민 [현민](Day5/shm_1259.cs) [연호](Day5/syh_1259.cs) [준수](Day5/sjs_1259.py) | 창민 택민 현민 연호 [준수](Day5/sjs_1259.py)            |
+| [<sub>![Bronze1]</sub> 팰린드롬수](https://www.acmicpc.net/problem/1259) | [창민](Day5/kcm_1259.cs) [택민](Day5/jtm_1259.cpp) [현민](Day5/shm_1259.cs) [연호](Day5/syh_1259.cs) [준수](Day5/sjs_1259.py) | 창민 택민 현민 연호 [준수](Day5/sjs_1259.py)            |
 
 ## [일차](Day6)
 
