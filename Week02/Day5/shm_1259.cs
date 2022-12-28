@@ -25,9 +25,6 @@ namespace _221226
                         break;
                     }
                 }
-                //String frontNum = new String(input.Substring(0, input.Length / 2).ToCharArray().OrderByDescending(x => x).ToArray());
-                //String backNum = new String(input.Substring(input.Length - input.Length / 2).ToCharArray().OrderByDescending(x => x).ToArray());
-                //bool exception = input.Substring(input.Length - input.Length / 2).Equals(backNum);
 
                 if (check) Console.WriteLine("yes");
                 else Console.WriteLine("no");
