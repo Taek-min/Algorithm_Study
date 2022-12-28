@@ -14,21 +14,21 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze1]</sub> 팰린드롬수](https://www.acmicpc.net/problem/1259) | [창민](Day5/kcm_1259.cs) [택민](Day5/jtm_1259.cpp) [현민](Day5/shm_1259.cs) [연호](Day5/syh_1259.cs) [준수](Day5/sjs_1259.py) | 창민 택민 현민 연호 [준수](Day5/sjs_1259.py)            |
+| [<sub>![Bronze1]</sub> 팰린드롬수](https://www.acmicpc.net/problem/1259) | [창민](Day5/kcm_1259.cs) [택민](Day5/jtm_1259.cpp) [현민](Day5/shm_1259.cs) [연호](Day5/syh_1259.cs) [준수](Day5/sjs_1259.py) | 창민 [택민](Day5/jtm_1259.cpp) 현민 연호 [준수](Day5/sjs_1259.py)            |
 
 ## [6일차](Day6)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze2]</sub> 주사위](https://www.acmicpc.net/problem/1233) | [창민](Day6/kcm_1233.cs)[택민](Day6/jtm_1233.cpp)현민 [연호](Day6/syh_1233.cs) 준수 | 창민 택민 현민 연호 준수             |
+| [<sub>![Bronze2]</sub> 주사위](https://www.acmicpc.net/problem/1233) | [창민](Day6/kcm_1233.cs) [택민](Day6/jtm_1233.cpp)현민 [연호](Day6/syh_1233.cs) 준수 | 창민 택민 현민 연호 준수             |
 
-## [일차](Day7)
+## [7일차](Day7)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver5]</sub> 단어정렬](https://www.acmicpc.net/problem/1181) | 창민 택민 현민 연호 준수 | 창민 택민 현민 연호 준수             |
+| [<sub>![Silver5]</sub> 단어정렬](https://www.acmicpc.net/problem/1181) | 창민 [택민](Day7/jtm_1811.cpp) 현민 연호 준수 | 창민 택민 현민 연호 준수             |
 
-## [일차](Day8)
+## [8일차](Day8)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
