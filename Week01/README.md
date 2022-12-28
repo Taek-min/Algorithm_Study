@@ -26,10 +26,10 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze1]</sub> 적어도 대부분의 배수](https://www.acmicpc.net/problem/1145) | [창민](Day3/kcm_1145.cs) [택민](Day3/jtm_1145.cpp) [현민](Day3/shm_1145.cs) [연호](Day3/syh_1145.cs) 준수 | [창민](Day3/kcm_1145.cs) 택민 [현민](Day3/shm_1145.cs) 연호 준수             |
+| [<sub>![Bronze1]</sub> 적어도 대부분의 배수](https://www.acmicpc.net/problem/1145) | [창민](Day3/kcm_1145.cs) [택민](Day3/jtm_1145.cpp) [현민](Day3/shm_1145.cs) [연호](Day3/syh_1145.cs) 준수 | [창민](Day3/kcm_1145.cs) [택민](Day3/jtm_1145.cpp) [현민](Day3/shm_1145.cs) 연호 준수             |
 
 ## [4일차](Day4)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze1]</sub> 팀 이름 정하기](https://www.acmicpc.net/problem/1296) | [창민](Day4/kcm_1296.cs) [택민](Day4/jtm_1296.java) [현민](Day4/shm_1296.cs) [연호](Day4/syh_1296.cs) 준수 | [창민](Day4/kcm_1296.cs) 택민 현민 연호 준수             |
+| [<sub>![Bronze1]</sub> 팀 이름 정하기](https://www.acmicpc.net/problem/1296) | [창민](Day4/kcm_1296.cs) [택민](Day4/jtm_1296.java) [현민](Day4/shm_1296.cs) [연호](Day4/syh_1296.cs) 준수 | [창민](Day4/kcm_1296.cs) [택민](Day4/jtm_1296.java) 현민 연호 준수             |
