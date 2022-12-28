@@ -16,7 +16,7 @@ namespace BaekjoonProject.Class
             int[] dice = new int[3];
             int curIdx = 0;
 
-            for(dice[0] = 1; dice[0] <= inputNumList[0]; dice[0]++)
+            for(dice[0] = 1; dice[0] <= inputNumList[0]; dice[0]++) // 요렇게도 되네 꿀팁 ㄳ
             {
                 for(dice[1] = 1; dice[1] <= inputNumList[1]; dice[1]++)
                 {

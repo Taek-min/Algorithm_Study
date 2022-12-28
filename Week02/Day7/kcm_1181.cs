@@ -9,7 +9,7 @@ namespace kcm_1181
         static void Main(string[] args)
         {
             List<List<string>> strList = new List<List<string>>();
-            StringBuilder stringBuilder = new StringBuilder();
+            StringBuilder stringBuilder = new StringBuilder(); // StringBuilder 배워갑니다
 
             int loop = int.Parse(Console.ReadLine());
 

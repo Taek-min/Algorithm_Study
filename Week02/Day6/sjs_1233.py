@@ -9,3 +9,4 @@ for i in range(1, s1+1):
             arr[i+j+k] += 1
 
 print(arr.index(max(arr)))
+##ㅋㅋ 여윽시 파이썬

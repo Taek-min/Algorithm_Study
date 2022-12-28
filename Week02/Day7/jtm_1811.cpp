@@ -35,4 +35,4 @@ int main()
 	}
 	delete[] word;
 	return 0;
-}
+}// ±ò²Ä

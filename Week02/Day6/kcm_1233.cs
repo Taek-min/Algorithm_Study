@@ -32,6 +32,6 @@ namespace kcm_1233
             }
 
             Console.WriteLine(index);
-        }
+        }//거의 똑같군요?
     }
 }
