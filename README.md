@@ -22,6 +22,7 @@
 [<sub>![Bronze1]</sub> 팀 이름 정하기](https://www.acmicpc.net/problem/1296) |
 [<sub>![Bronze1]</sub> 팰린드롬수](https://www.acmicpc.net/problem/1259) |
 [<sub>![Bronze2]</sub> 주사위](https://www.acmicpc.net/problem/1233) |
+[<sub>![Silver5]</sub> 단어정렬](https://www.acmicpc.net/problem/1181) |
 [<sub>![Silver4]</sub> 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) |
 
 ## 👨‍💻 스터디원
