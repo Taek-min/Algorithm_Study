@@ -17,3 +17,4 @@ int main(void)
 
 	cout << ans;
 }
+// 비슷하게 풀었네 
