@@ -20,7 +20,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze2]</sub> 주사위](https://www.acmicpc.net/problem/1233) | [창민](Day6/kcm_1233.cs) [택민](Day6/jtm_1233.cpp)[현민](Day6/shm_1233.cs) [연호](Day6/syh_1233.cs) [준수](Day6/sjs_1233.py) | 창민 택민 현민 연호 준수             |
+| [<sub>![Bronze2]</sub> 주사위](https://www.acmicpc.net/problem/1233) | [창민](Day6/kcm_1233.cs) [택민](Day6/jtm_1233.cpp)[현민](Day6/shm_1233.cs) [연호](Day6/syh_1233.cs) [준수](Day6/sjs_1233.py) | 창민 [택민](Day6/jtm_1233.cpp) 현민 연호 준수             |
 
 ## [7일차](Day7)
 
@@ -32,7 +32,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver4]</sub> 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | 창민 택민 현민 [연호](Day8/syh_1018.cs) 준수 | 창민 택민 현민 연호 준수             |
+| [<sub>![Silver4]</sub> 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | 창민 [택민](Day8/jtm_1018.cpp) 현민 [연호](Day8/syh_1018.cs) 준수 | 창민 택민 현민 연호 준수             |
 
 ## [일차](Day)
 

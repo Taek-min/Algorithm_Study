@@ -35,4 +35,4 @@ namespace _221228
             public int wordLength { get; set; }
         }
     }
-}
+}// 되게 신기한 기능이 많네 굳
