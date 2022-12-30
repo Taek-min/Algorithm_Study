@@ -24,6 +24,7 @@
 [<sub>![Bronze2]</sub> 주사위](https://www.acmicpc.net/problem/1233) |
 [<sub>![Silver5]</sub> 단어정렬](https://www.acmicpc.net/problem/1181) |
 [<sub>![Silver4]</sub> 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) |
+[<sub>![Silver5]</sub> 수들의 합](https://www.acmicpc.net/problem/1789) |
 
 ## 👨‍💻 스터디원
 <table>
