@@ -38,5 +38,5 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver5]</sub> 수들의 합](https://www.acmicpc.net/problem/1789) | [창민](Day9/kcm_1789.cs) 택민 [현민](Day9/shm_1789.cs) 연호 [준수](Day9/sjs_1789.py) | 창민 택민 현민 연호 준수             |
+| [<sub>![Silver5]</sub> 수들의 합](https://www.acmicpc.net/problem/1789) | [창민](Day9/kcm_1789.cs) 택민 [현민](Day9/shm_1789.cs) [연호](Day9/syh_1789.cs) [준수](Day9/sjs_1789.py) | 창민 택민 현민 연호 준수             |
 
