@@ -32,11 +32,11 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver4]</sub> 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | [창민](Day8/kcm_1018) [택민](Day8/jtm_1018.cpp) 현민 [연호](Day8/syh_1018.cs) [준수](Day8/sjs_1018.py) | 창민 택민 현민 연호 [준수](Day8/sjs_1018.py)             |
+| [<sub>![Silver4]</sub> 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | [창민](Day8/kcm_1018) [택민](Day8/jtm_1018.cpp) 현민 [연호](Day8/syh_1018.cs) [준수](Day8/sjs_1018.py) | [창민](Day8/kcm_1018) 택민 현민 연호 [준수](Day8/sjs_1018.py)             |
 
 ## [9일차](Day9)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver5]</sub> 수들의 합](https://www.acmicpc.net/problem/1789) | [창민](Day9/kcm_1789.cs) 택민 [현민](Day9/shm_1789.cs) [연호](Day9/syh_1789.cs) [준수](Day9/sjs_1789.py) | 창민 택민 현민 연호 준수             |
+| [<sub>![Silver5]</sub> 수들의 합](https://www.acmicpc.net/problem/1789) | [창민](Day9/kcm_1789.cs) 택민 [현민](Day9/shm_1789.cs) [연호](Day9/syh_1789.cs) [준수](Day9/sjs_1789.py) | [창민](Day9/kcm_1789.cs) 택민 현민 연호 준수             |
 
