@@ -30,6 +30,7 @@
 [<sub>![Silver3]</sub> 1로 만들기](https://www.acmicpc.net/problem/1463) |
 [<sub>![Silver5]</sub> 영화감독 숌](https://www.acmicpc.net/problem/1436) |
 [<sub>![Silver5]</sub> 요세푸스 문제 0](https://www.acmicpc.net/problem/11866) |
+[<sub>![Silver3]</sub> 스택 수열](https://www.acmicpc.net/problem/1874) |
 
 
 ## 👨‍💻 스터디원
