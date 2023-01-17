@@ -32,6 +32,8 @@
 [<sub>![Silver5]</sub> 요세푸스 문제 0](https://www.acmicpc.net/problem/11866) |
 [<sub>![Silver3]</sub> 스택 수열](https://www.acmicpc.net/problem/1874) |
 [<sub>![Bronze1]</sub> 비밀편지](https://www.acmicpc.net/problem/2596) |
+[<sub>![Bronze2]</sub> 블랙잭](https://www.acmicpc.net/problem/2798) |
+
 
 
 ## 👨‍💻 스터디원
