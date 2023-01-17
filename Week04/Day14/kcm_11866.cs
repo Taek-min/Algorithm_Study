@@ -40,6 +40,6 @@ namespace kcm_11866
             }
 
             Console.WriteLine("<" + strBuilder + ">");
-        }
+        }//피드백이 필요 없군요
     }
 }

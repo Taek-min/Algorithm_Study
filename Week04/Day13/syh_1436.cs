@@ -26,5 +26,5 @@ namespace BaekjoonProject.Class
 
             Console.WriteLine(--curNum);
         }
-    }
+    }//피드백이 필요 없군요
 }

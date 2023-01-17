@@ -66,6 +66,6 @@ namespace kcm_1874
             {
                 Console.WriteLine("NO");
             }
-        }
+        }//비슷하게 풀었꾼요
     }
 }

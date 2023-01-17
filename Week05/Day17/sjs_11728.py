@@ -6,3 +6,4 @@ abc=A+B
 abc.sort()
 
 print(" ".join(map(str,abc)))
+# 부럽네요 ^오^ 

@@ -24,3 +24,4 @@ if __name__ == '__main__':
             print(sList.index(i) + 1)
             quit()
     print(correct)
+    #비슷하게 풀었네윤

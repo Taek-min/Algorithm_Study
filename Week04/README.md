@@ -14,29 +14,29 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver3]</sub> 1로 만들기](https://www.acmicpc.net/problem/1463) | [창민]() [택민]() *[현민](Day12/shm_1463.cs)* [연호]() [준수](Day12/sjs_1463.py) | [창민]() [택민]() [현민]() [연호]() [준수]()            |
+| [<sub>![Silver3]</sub> 1로 만들기](https://www.acmicpc.net/problem/1463) | [창민]() [택민]() *[현민](Day12/shm_1463.cs)* [연호]() [준수](Day12/sjs_1463.py) | [창민]() [택민]() [현민](Day12/shm_1463.cs) [연호]() [준수]()            |
 
 ## [13일차](Day13)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver5]</sub> 영화감독 숌](https://www.acmicpc.net/problem/1436) | [창민](Day13/kcm_1436.cs) [택민]()[현민](Day13/shm_1436.cs) [연호](Day13/syh_1436.cs) [준수](Day13/sjs_1436.py) | 창민 [택민]() [현민]() 연호 [준수]()             |
+| [<sub>![Silver5]</sub> 영화감독 숌](https://www.acmicpc.net/problem/1436) | [창민](Day13/kcm_1436.cs) [택민]()[현민](Day13/shm_1436.cs) [연호](Day13/syh_1436.cs) [준수](Day13/sjs_1436.py) | 창민 [택민]() [현민](Day12/shm_1463.cs) 연호 [준수]()             |
 
 ## [14일차](Day14)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver5]</sub> 요세푸스 문제 0](https://www.acmicpc.net/problem/11866) | [창민](Day14/kcm_11866.cs) [택민](Day14/jtm_11866.cpp) [현민](Day14/shm_11866.cs) [연호]() [준수](Day14/sjs_11866.py) | [창민]() 택민 [현민]() 연호 [준수]()             |
+| [<sub>![Silver5]</sub> 요세푸스 문제 0](https://www.acmicpc.net/problem/11866) | [창민](Day14/kcm_11866.cs) [택민](Day14/jtm_11866.cpp) [현민](Day14/shm_11866.cs) [연호]() [준수](Day14/sjs_11866.py) | [창민]() 택민 [현민](Day12/shm_1463.cs) 연호 [준수]()             |
 
 ## [15일차](Day15)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver3]</sub> 스택 수열](https://www.acmicpc.net/problem/1874) | [창민](Day15/kcm_1874.cs) [택민]() [현민](Day15/shm_1874.cs) [연호]() [준수](Day15/sjs_1874.py) | 창민 택민 현민 연호 [준수]()             |
+| [<sub>![Silver3]</sub> 스택 수열](https://www.acmicpc.net/problem/1874) | [창민](Day15/kcm_1874.cs) [택민]() [현민](Day15/shm_1874.cs) [연호]() [준수](Day15/sjs_1874.py) | 창민 택민 [현민](Day15/shm_1874.cs) 연호 [준수]()             |
 
 ## [16일차](Day16)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze1]</sub> 비밀편지](https://www.acmicpc.net/problem/2596) | 창민 택민 [현민](Day16/shm_2596.cs) 연호 [준수](Day16/sjs_2596.py ) | 창민 택민 현민 연호 준수             |
+| [<sub>![Bronze1]</sub> 비밀편지](https://www.acmicpc.net/problem/2596) | 창민 택민 [현민](Day16/shm_2596.cs) 연호 [준수](Day16/sjs_2596.py ) | 창민 택민 [현민](Day16/shm_2596.cs) 연호 준수             |
 

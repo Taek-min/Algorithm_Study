@@ -19,3 +19,4 @@ if temp == False:
 else:
     for i in ans:
         print(i)
+        #잘하는구만
