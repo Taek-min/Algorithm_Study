@@ -38,5 +38,5 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze1]</sub> 비밀편지](https://www.acmicpc.net/problem/2596) | 창민 택민 [현민](Day16/shm_2596.cs) 연호 [준수](Day16/sjs_2596.py ) | 창민 택민 [현민](Day16/shm_2596.cs) 연호 준수             |
+| [<sub>![Bronze1]</sub> 비밀편지](https://www.acmicpc.net/problem/2596) | [창민](Day16/kcm_2596.cs) 택민 [현민](Day16/shm_2596.cs) 연호 [준수](Day16/sjs_2596.py ) | 창민 택민 [현민](Day16/shm_2596.cs) 연호 준수             |
 
