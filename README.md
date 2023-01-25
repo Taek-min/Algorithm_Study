@@ -36,6 +36,7 @@
 [<sub>![Bronze2]</sub> 블랙잭](https://www.acmicpc.net/problem/2798) |
 [<sub>![Silver4]</sub> 덱](https://www.acmicpc.net/problem/10866) |
 [<sub>![Silver3]</sub> 소수 구하기](https://www.acmicpc.net/problem/1929) |
+[<sub>![Silver5]</sub> 수 정렬하기 2](https://www.acmicpc.net/problem/2751) |
 
 
 
