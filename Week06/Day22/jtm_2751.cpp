@@ -16,4 +16,4 @@ int main()
         cout << arrNum[i] << "\n";
     }
     delete[] arrNum;
-}
+}//EZ

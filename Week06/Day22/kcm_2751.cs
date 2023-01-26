@@ -28,5 +28,5 @@ namespace kcm_2751
 
             Console.WriteLine(strBuilder.ToString());
         }
-    }
+    }//깔끔
 }
