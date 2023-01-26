@@ -14,7 +14,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver5]</sub> 수 정렬하기 2](https://www.acmicpc.net/problem/2751) | [창민](Day22/kcm_2751.cs) [택민](Day22/jtm_2751.cpp) [현민](Day22/shm_2751.cs) 연호 준수 | 창민 택민 현민 연호 준수             |
+| [<sub>![Silver5]</sub> 수 정렬하기 2](https://www.acmicpc.net/problem/2751) | [창민](Day22/kcm_2751.cs) [택민](Day22/jtm_2751.cpp) [현민](Day22/shm_2751.cs) [연호](Day22/syh_2751.cs) 준수 | 창민 택민 현민 연호 준수             |
 
 ## [23일차](Day23)
 
