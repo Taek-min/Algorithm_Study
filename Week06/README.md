@@ -20,10 +20,10 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver5]</sub> 덩치](https://www.acmicpc.net/problem/7568) | 창민 택민 [현민](Day23/shm_7568.cs) 연호 준수 | 창민 택민 현민 연호 준수             |
+| [<sub>![Silver5]</sub> 덩치](https://www.acmicpc.net/problem/7568) | [창민](Day23/kcm_7568.cs) 택민 [현민](Day23/shm_7568.cs) 연호 준수 | 창민 택민 현민 연호 준수             |
 
 ## [24일차](Day24)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze1]</sub> 피카츄](https://www.acmicpc.net/problem/14405) | 창민 택민 [현민](Day24/shm_14405.cs) 연호 준수 | 창민 택민 현민 연호 준수             |
+| [<sub>![Bronze1]</sub> 피카츄](https://www.acmicpc.net/problem/14405) | [창민](Day24/kcm_14405.cs) 택민 [현민](Day24/shm_14405.cs) 연호 준수 | 창민 택민 현민 연호 준수             |
