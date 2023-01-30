@@ -14,7 +14,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver4]</sub> 괄호](https://www.acmicpc.net/problem/9012) | 창민 택민 [현민](Day25/shm_9012.cs) 연호 준수 | 창민 택민 현민 연호 준수             |
+| [<sub>![Silver4]</sub> 괄호](https://www.acmicpc.net/problem/9012) | [창민](Day25/kcm_9012.cs) 택민 [현민](Day25/shm_9012.cs) 연호 준수 | 창민 택민 현민 연호 준수             |
 
 ## [26일차](Day26)
 
