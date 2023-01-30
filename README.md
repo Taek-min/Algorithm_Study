@@ -41,6 +41,7 @@
 [<sub>![Silver5]</sub> 덩치](https://www.acmicpc.net/problem/7568) |
 [<sub>![Bronze1]</sub> 피카츄](https://www.acmicpc.net/problem/14405) |
 [<sub>![Silver4]</sub> 괄호](https://www.acmicpc.net/problem/9012) |
+[<sub>![Silver4]</sub> 수 찾기](https://www.acmicpc.net/problem/1920) |
 
 
 
