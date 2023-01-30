@@ -40,6 +40,7 @@
 [<sub>![Silver5]</sub> 수 정렬하기 2](https://www.acmicpc.net/problem/2751) |
 [<sub>![Silver5]</sub> 덩치](https://www.acmicpc.net/problem/7568) |
 [<sub>![Bronze1]</sub> 피카츄](https://www.acmicpc.net/problem/14405) |
+[<sub>![Silver4]</sub> 괄호](https://www.acmicpc.net/problem/9012) |
 
 
 
