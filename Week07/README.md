@@ -26,7 +26,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver4]</sub> 스택](https://www.acmicpc.net/problem/10828) | 창민 택민 [현민](Day27/shm_10828.cs) 연호 준수 | 창민 택민 현민 연호 준수             |
+| [<sub>![Silver4]</sub> 스택](https://www.acmicpc.net/problem/10828) | [창민](Day27/kcm_10828.cs) 택민 [현민](Day27/shm_10828.cs) 연호 준수 | 창민 택민 현민 연호 준수             |
 
 ## [28일차](Day28)
 
