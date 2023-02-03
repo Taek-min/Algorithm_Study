@@ -38,5 +38,5 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze1]</sub> 문제이름](https://www.acmicpc.net/problem/2456) | [창민](Day29/kcm_2456.cs) 택민 [현민](Day29/shm_2456.cs) 연호 준수 | 창민 택민 현민 연호 준수             |
+| [<sub>![Bronze1]</sub> 문제이름](https://www.acmicpc.net/problem/2456) | [창민](Day29/kcm_2456.cs) [택민](Day29/jtm_2456.cpp) [현민](Day29/shm_2456.cs) 연호 준수 | 창민 택민 현민 연호 준수             |
 
