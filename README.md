@@ -44,6 +44,8 @@
 [<sub>![Silver4]</sub> 수 찾기](https://www.acmicpc.net/problem/1920) |
 [<sub>![Silver4]</sub> 스택](https://www.acmicpc.net/problem/10828) |
 [<sub>![Bronze1]</sub> 슈퍼마리오](https://www.acmicpc.net/problem/2851) |
+[<sub>![Bronze1]</sub> 나는 학급회장이다](https://www.acmicpc.net/problem/2456) |
+[<sub>![Bronze1]</sub> 유진수](https://www.acmicpc.net/problem/1356) |
 
 
 
