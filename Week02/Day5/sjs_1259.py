@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 #팰린드롬수_221226
 
 while(True):
@@ -16,3 +17,6 @@ while(True):
     else : print('yes')       
 
 ## 굳
+=======
+print(3)
+>>>>>>> Stashed changes
