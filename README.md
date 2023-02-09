@@ -48,6 +48,7 @@
 [<sub>![Bronze1]</sub> 유진수](https://www.acmicpc.net/problem/1356) |
 [<sub>![Silver5]</sub> 좌표 정렬하기](https://www.acmicpc.net/problem/11650) |
 [<sub>![Silver4]</sub> 큐](https://www.acmicpc.net/problem/10845) |
+[<sub>![Bronze1]</sub> 단어 뒤집기](https://www.acmicpc.net/problem/9093) |
 
 
 
