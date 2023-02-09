@@ -14,25 +14,25 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze1]</sub> 유진수](https://www.acmicpc.net/problem/1356) | 창민 택민 [현민](Day30/shm_1356.cs) 연호 준수 | 창민 택민 현민 연호 준수             |
+| [<sub>![Bronze1]</sub> 유진수](https://www.acmicpc.net/problem/1356) | [창민](Day30/kcm_1356.cs) 택민 [현민](Day30/shm_1356.cs) 연호 준수 | 창민 택민 현민 연호 준수             |
 
 ## [31일차](Day31)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver5]</sub> 좌표 정렬하기](https://www.acmicpc.net/problem/11650) | 창민 택민 [현민](Day31/shm_11650.cs) 연호 준수 | 창민 택민 현민 연호 준수             |
+| [<sub>![Silver5]</sub> 좌표 정렬하기](https://www.acmicpc.net/problem/11650) | *[창민](Day31/kcm_11650.cs)* 택민 [현민](Day31/shm_11650.cs) 연호 준수 | 창민 택민 현민 연호 준수             |
 
 ## [32일차](Day32)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver4]</sub> 큐](https://www.acmicpc.net/problem/10845) | 창민 택민 [현민](Day32/shm_10845.cs) 연호 준수 | 창민 택민 현민 연호 준수             |
+| [<sub>![Silver4]</sub> 큐](https://www.acmicpc.net/problem/10845) | [창민](Day32/kcm_10845.cs) 택민 [현민](Day32/shm_10845.cs) 연호 준수 | 창민 택민 현민 연호 준수             |
 
 ## [33일차](Day33)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze1]</sub> 단어 뒤집기](https://www.acmicpc.net/problem/9093) | 창민 택민 [현민](Day33/shm_9093.cs) 연호 준수 | 창민 택민 현민 연호 준수             |
+| [<sub>![Bronze1]</sub> 단어 뒤집기](https://www.acmicpc.net/problem/9093) | [창민](Day33/kcm_9093.cs) 택민 [현민](Day33/shm_9093.cs) 연호 준수 | 창민 택민 현민 연호 준수             |
 
 ## [34일차](Day34)
 
