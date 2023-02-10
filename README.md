@@ -49,6 +49,7 @@
 [<sub>![Silver5]</sub> 좌표 정렬하기](https://www.acmicpc.net/problem/11650) |
 [<sub>![Silver4]</sub> 큐](https://www.acmicpc.net/problem/10845) |
 [<sub>![Bronze1]</sub> 단어 뒤집기](https://www.acmicpc.net/problem/9093) |
+[<sub>![Bronze1]</sub> 피보나치 수 2](https://www.acmicpc.net/problem/2748) |
 
 
 
