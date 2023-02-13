@@ -38,5 +38,5 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze1]</sub> 피보나치 수 2](https://www.acmicpc.net/problem/2748) | 창민 택민 [현민](Day34/shm_2748.cs) 연호 준수 | 창민 택민 현민 연호 준수             |
+| [<sub>![Bronze1]</sub> 피보나치 수 2](https://www.acmicpc.net/problem/2748) | [창민](Day34/kcm_2748.cs) 택민 [현민](Day34/shm_2748.cs) 연호 준수 | 창민 택민 현민 연호 준수             |
 
