@@ -10,33 +10,33 @@
 [Silver2]: https://user-images.githubusercontent.com/33937365/126247622-a83b30a9-6618-4593-b775-6f6730afd3f6.png
 [Silver1]: https://user-images.githubusercontent.com/33937365/126247625-8d82f8ab-6f95-4ef8-a243-be31f548596e.png
 
-## [5일차](Day5)
+## [35일차](Day35)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze1]</sub> 팰린드롬수](https://www.acmicpc.net/problem/1259) | [창민](Day5/kcm_1259.cs) [택민](Day5/jtm_1259.cpp) [현민](Day5/shm_1259.cs) [연호](Day5/syh_1259.cs) [준수](Day5/sjs_1259.py) | [창민](Day5/kcm_1259.cs) [택민](Day5/jtm_1259.cpp) [현민](Day5/shm_1259.cs) 연호 [준수](Day5/sjs_1259.py)            |
+| [<sub>![Bronze1]</sub> 이항 계수 1](https://www.acmicpc.net/problem/11050) | 창민 택민 [현민](Day35/shm_11050.cs) 연호 준수 | 창민 택민 현민 연호 준수             |
 
-## [6일차](Day6)
-
-| 문제                 | 답안 | 피드백 반영 답안 |
-| -------------------- | ---- | ---------------- |
-| [<sub>![Bronze2]</sub> 주사위](https://www.acmicpc.net/problem/1233) | [창민](Day6/kcm_1233.cs) [택민](Day6/jtm_1233.cpp)[현민](Day6/shm_1233.cs) [연호](Day6/syh_1233.cs) [준수](Day6/sjs_1233.py) | 창민 [택민](Day6/jtm_1233.cpp) [현민](Day6/shm_1233.cs) 연호 [준수](Day6/sjs_1233.py)             |
-
-## [7일차](Day7)
+## [36일차](Day36)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver5]</sub> 단어정렬](https://www.acmicpc.net/problem/1181) | [창민](Day7/kcm_1181.cs) [택민](Day7/jtm_1811.cpp) [현민](Day7/shm_1181.cs) [연호](Day7/syh_1181.cs) [준수](Day7/sjs_1181.py) | [창민](Day7/kcm_1181.cs) 택민 [현민](Day7/shm_1181.cs) 연호 [준수](Day7/sjs_1181.py)             |
+| [<sub>![Unrated]</sub> 문제이름](문제링크) | 창민 택민 현민 연호 준수 | 창민 택민 현민 연호 준수             |
 
-## [8일차](Day8)
-
-| 문제                 | 답안 | 피드백 반영 답안 |
-| -------------------- | ---- | ---------------- |
-| [<sub>![Silver4]</sub> 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | [창민](Day8/kcm_1018) [택민](Day8/jtm_1018.cpp) [현민](Day8/shm_1018.cs) [연호](Day8/syh_1018.cs) [준수](Day8/sjs_1018.py) | [창민](Day8/kcm_1018) 택민 [현민](Day8/shm_1018.cs) 연호 [준수](Day8/sjs_1018.py)             |
-
-## [9일차](Day9)
+## [37일차](Day37)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver5]</sub> 수들의 합](https://www.acmicpc.net/problem/1789) | [창민](Day9/kcm_1789.cs) 택민 [현민](Day9/shm_1789.cs) [연호](Day9/syh_1789.cs) [준수](Day9/sjs_1789.py) | [창민](Day9/kcm_1789.cs) 택민 [현민](Day9/shm_1789.cs) 연호 준수             |
+| [<sub>![Unrated]</sub> 문제이름](문제링크) | 창민 택민 현민 연호 준수 | 창민 택민 현민 연호 준수             |
+
+## [38일차](Day38)
+
+| 문제                 | 답안 | 피드백 반영 답안 |
+| -------------------- | ---- | ---------------- |
+| [<sub>![Unrated]</sub> 문제이름](문제링크) | 창민 택민 현민 연호 준수 | 창민 택민 현민 연호 준수             |
+
+## [39일차](Day39)
+
+| 문제                 | 답안 | 피드백 반영 답안 |
+| -------------------- | ---- | ---------------- |
+| [<sub>![Unrated]</sub> 문제이름](문제링크) | 창민 택민 현민 연호 준수 | 창민 택민 현민 연호 준수             |
 
