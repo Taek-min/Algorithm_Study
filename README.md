@@ -52,6 +52,7 @@
 [<sub>![Bronze1]</sub> 피보나치 수 2](https://www.acmicpc.net/problem/2748) |
 [<sub>![Bronze1]</sub> 이항 계수 1](https://www.acmicpc.net/problem/11050) |
 [<sub>![Silver4]</sub> 숫자 카드 1](https://www.acmicpc.net/problem/10816) |
+[<sub>![Silver3]</sub> 프린터 큐](https://www.acmicpc.net/problem/1966) |
 
 
 
