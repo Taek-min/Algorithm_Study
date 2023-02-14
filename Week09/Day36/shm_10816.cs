@@ -20,7 +20,7 @@ namespace _20230214
             int M = int.Parse(sr.ReadLine());
             string[] chkNum = sr.ReadLine().Split();
             int[] cnt = new int[20000001];
-            int index = 1000000;
+            int index = 10000000;
 
             for (int i = 0; i < N; i++) cnt[index + int.Parse(haveNum[i])]++;
             for (int i = 0; i < M; i++) sb.Append(cnt[index + int.Parse(chkNum[i])] + " ");
