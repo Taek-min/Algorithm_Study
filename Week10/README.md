@@ -14,7 +14,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze1]</sub> 논리학 교수](https://www.acmicpc.net/problem/1813) | 창민 택민 [현민](Day40/shm_1813.cs) 연호 준수 | 창민 택민 현민 연호 준수             |
+| [<sub>![Bronze1]</sub> 논리학 교수](https://www.acmicpc.net/problem/1813) | 창민 택민 [현민](Day40/shm_1813.cs) [연호](Day40/shy_1813.cs) 준수 | 창민 택민 현민 연호 준수             |
 
 ## [일차](Day)
 
