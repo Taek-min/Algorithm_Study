@@ -32,7 +32,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze1]</sub> Meats On The Grill](https://www.acmicpc.net/problem/10219) | 창민 택민 [현민](Day43/shm_10219.cs) 연호 준수 | 창민 택민 현민 연호 준수             |
+| [<sub>![Bronze1]</sub> Meats On The Grill](https://www.acmicpc.net/problem/10219) | 창민 택민 [현민](Day43/shm_10219.cs) [연호](Day43/syh_10219.cs) 준수 | 창민 택민 현민 연호 준수             |
 
 ## [44일차](Day44)
 
