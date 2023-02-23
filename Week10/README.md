@@ -20,7 +20,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver5]</sub> 팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676) | 창민 택민 현민 연호 준수 | 창민 택민 현민 연호 준수             |
+| [<sub>![Silver5]</sub> 팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676) | 창민 택민 [현민](Day41/shm_1676.cs) 연호 준수 | 창민 택민 현민 연호 준수             |
 
 ## [42일차](Day42)
 
@@ -32,7 +32,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze1]</sub> Meats On The Grill](https://www.acmicpc.net/problem/10219) | 창민 택민 현민 연호 준수 | 창민 택민 현민 연호 준수             |
+| [<sub>![Bronze1]</sub> Meats On The Grill](https://www.acmicpc.net/problem/10219) | 창민 택민 [현민](Day43/shm_10219.cs) 연호 준수 | 창민 택민 현민 연호 준수             |
 
 ## [44일차](Day44)
 
