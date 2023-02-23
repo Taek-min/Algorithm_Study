@@ -55,6 +55,9 @@
 [<sub>![Silver3]</sub> 프린터 큐](https://www.acmicpc.net/problem/1966) |
 [<sub>![Silver5]</sub> 다리 놓기](https://www.acmicpc.net/problem/1010) |
 [<sub>![Bronze1]</sub> 논리학 교수](https://www.acmicpc.net/problem/1813) |
+[<sub>![Silver5]</sub> 팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676) |
+[<sub>![]</sub> ](https://www.acmicpc.net/problem/) |
+[<sub>![Bronze1]</sub> Meats On The Grill](https://www.acmicpc.net/problem/10219) |
 
 
 
