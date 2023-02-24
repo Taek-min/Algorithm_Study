@@ -56,9 +56,9 @@
 [<sub>![Silver5]</sub> 다리 놓기](https://www.acmicpc.net/problem/1010) |
 [<sub>![Bronze1]</sub> 논리학 교수](https://www.acmicpc.net/problem/1813) |
 [<sub>![Silver5]</sub> 팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676) |
-[<sub>![]</sub> ](https://www.acmicpc.net/problem/) |
-[<sub>![Bronze1]</sub> Meats On The Grill](https://www.acmicpc.net/problem/10219) |
 [<sub>![Silver2]</sub> 나무 자르기](https://www.acmicpc.net/problem/2805) |
+[<sub>![Bronze1]</sub> Meats On The Grill](https://www.acmicpc.net/problem/10219) |
+
 
 
 
