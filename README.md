@@ -61,7 +61,7 @@
 [<sub>![Silver4]</sub> 균형잡힌 세상](https://www.acmicpc.net/problem/4949) |
 [<sub>![Silver2]</sub> 마인크래프트](https://www.acmicpc.net/problem/18111) |
 [<sub>![Bronze1]</sub> 애너그램](https://www.acmicpc.net/problem/6996) |
-
+[<sub>![Silver3]</sub> 통계학](https://www.acmicpc.net/problem/2108) |
 
 
 
