@@ -12,3 +12,4 @@ while(True):
     result +=1
 
 print(result)
+# 피드백이 필요 없군요
