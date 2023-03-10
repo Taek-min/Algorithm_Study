@@ -14,19 +14,19 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze1]</sub> 논리학 교수](https://www.acmicpc.net/problem/1813) | 창민 택민 [현민](Day40/shm_1813.cs) [연호](Day40/syh_1813.cs) 준수 | 창민 택민 현민 연호 준수             |
+| [<sub>![Bronze1]</sub> 논리학 교수](https://www.acmicpc.net/problem/1813) | [창민](Day40/kcm_1813.cs) 택민 [현민](Day40/shm_1813.cs) [연호](Day40/syh_1813.cs) 준수 | 창민 택민 현민 연호 준수             |
 
 ## [41일차](Day41)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver5]</sub> 팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676) | 창민 택민 [현민](Day41/shm_1676.cs) 연호 준수 | 창민 택민 현민 연호 준수             |
+| [<sub>![Silver5]</sub> 팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676) | [창민](Day41/kcm_1676.cs) 택민 [현민](Day41/shm_1676.cs) 연호 준수 | 창민 택민 현민 연호 준수             |
 
 ## [42일차](Day42)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver2]</sub> 나무 자르기](https://www.acmicpc.net/problem/2805) | 창민 택민 [현민](Day42/shm_2805.cs) [연호](Day42/syh_2805.cs) 준수 | 창민 택민 현민 연호 준수             |
+| [<sub>![Silver2]</sub> 나무 자르기](https://www.acmicpc.net/problem/2805) | [창민](Day42/kcm_2805.cs) 택민 [현민](Day42/shm_2805.cs) [연호](Day42/syh_2805.cs) 준수 | 창민 택민 현민 연호 준수             |
 
 ## [43일차](Day43)
 

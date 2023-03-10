@@ -26,17 +26,17 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver3]</sub> 프린터 큐](https://www.acmicpc.net/problem/1966) | 창민 택민 [현민](Day37/shm_1966.cs) 연호 준수 | 창민 택민 현민 연호 준수             |
+| [<sub>![Silver3]</sub> 프린터 큐](https://www.acmicpc.net/problem/1966) | [창민](Day37/kcm_1966.cs) 택민 [현민](Day37/shm_1966.cs) 연호 준수 | 창민 택민 현민 연호 준수             |
 
 ## [38일차](Day38)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver5]</sub> 다리 놓기](https://www.acmicpc.net/problem/1010) | 창민 택민 [현민](Day38/shm_1010.cs) 연호 준수 | 창민 택민 현민 연호 준수             |
+| [<sub>![Silver5]</sub> 다리 놓기](https://www.acmicpc.net/problem/1010) | [창민](Day38/kcm_1010.cs) 택민 [현민](Day38/shm_1010.cs) 연호 준수 | 창민 택민 현민 연호 준수             |
 
 ## [39일차](Day39)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronz1]</sub> 세준 세비](https://www.acmicpc.net/problem/1524) | 창민 택민 [현민](Day39/shm_1524.cs) 연호 준수 | 창민 택민 현민 연호 준수             |
+| [<sub>![Bronz1]</sub> 세준 세비](https://www.acmicpc.net/problem/1524) | [창민](Day39/kcm_1524.cs) 택민 [현민](Day39/shm_1524.cs) 연호 준수 | 창민 택민 현민 연호 준수             |
 
