@@ -14,7 +14,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver4]</sub> 균형잡힌 세상](https://www.acmicpc.net/problem/4949) | 창민 택민 [현민](Day45/shm_4949.cs) 연호 준수 | 창민 택민 현민 연호 준수             |
+| [<sub>![Silver4]</sub> 균형잡힌 세상](https://www.acmicpc.net/problem/4949) | [창민](Day45/kcm_4949.cs) 택민 [현민](Day45/shm_4949.cs) 연호 준수 | 창민 택민 현민 연호 준수             |
 
 ## [46일차](Day46)
 
