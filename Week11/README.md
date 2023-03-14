@@ -20,17 +20,17 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver2]</sub> 마인크래프트](https://www.acmicpc.net/problem/18111) | 창민 택민 [현민](Day46/shm_18111.cs) 연호 준수 | 창민 택민 현민 연호 준수             |
+| [<sub>![Silver2]</sub> 마인크래프트](https://www.acmicpc.net/problem/18111) | [창민](Day46/kcm_18111.cs) 택민 [현민](Day46/shm_18111.cs) 연호 준수 | 창민 택민 현민 연호 준수             |
 
 ## [47일차](Day47)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze1]</sub> 애너그램](https://www.acmicpc.net/problem/6996) | 창민 택민 [현민](Day47/shm_6996.cs) 연호 준수 | 창민 택민 현민 연호 준수             |
+| [<sub>![Bronze1]</sub> 애너그램](https://www.acmicpc.net/problem/6996) | [창민](Day47/kcm_6996.cs) 택민 [현민](Day47/shm_6996.cs) 연호 준수 | 창민 택민 현민 연호 준수             |
 
 ## [48일차](Day48)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver3]</sub> 통계학](https://www.acmicpc.net/problem/2108) | 창민 택민 현민 연호 준수 | 창민 택민 현민 연호 준수             |
+| [<sub>![Silver3]</sub> 통계학](https://www.acmicpc.net/problem/2108) | [창민](Day48/kcm_2108.cs) 택민 현민 연호 준수 | 창민 택민 현민 연호 준수             |
 

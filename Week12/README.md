@@ -14,13 +14,13 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze2]</sub> Hashing](https://www.acmicpc.net/problem/15829) | 창민 택민 [현민](Day49/shm_15829.cs) 연호 준수 | 창민 택민 현민 연호 준수             |
+| [<sub>![Bronze2]</sub> Hashing](https://www.acmicpc.net/problem/15829) | [창민](Day49/kcm_15829.cs) 택민 [현민](Day49/shm_15829.cs) 연호 준수 | 창민 택민 현민 연호 준수             |
 
 ## [50일차](Day50)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver3]</sub> 구간 합 구하기 4](https://www.acmicpc.net/problem/11659) | 창민 [택민](Day50/jtm_11659.c) [현민](Day50/shm_11659.cs) 연호 준수 | 창민 택민 현민 연호 준수             |
+| [<sub>![Silver3]</sub> 구간 합 구하기 4](https://www.acmicpc.net/problem/11659) | [창민](Day50/kcm_11659.cs)  [택민](Day50/jtm_11659.c) [현민](Day50/shm_11659.cs) 연호 준수 | 창민 택민 현민 연호 준수             |
 
 ## [51일차](Day51)
 
